@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.enterpriseplc.templates.sencha.device.api.tester" version="1.0" width="320" height="480" start="index.html">
+<title>Sencha Device API Tester</title>
+<description>(Safari/Chrome browsers only): This App demonstrates various components of the FeedHenry API. App documentation is available at http://docs.feedhenry.com/wiki/Sencha_Device_API_Tester_App. Further documentation is available in the source code.
+The app is also on Github: https://github.com/feedhenry/FH-Sample-Sencha-Device-API-Tester</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>
